@@ -1,0 +1,1561 @@
+[{
+	"Overall rank": 1,
+	"CountryOrRegion": "Finland",
+	"Score": 7.769,
+	"GDP Per Capita": 1.340,
+	"Social Support": 1.587,
+	"Healthy Life Expectancy": 0.986,
+	"Freedom To Make Life Choices": 0.596,
+	"Generosity": 0.153,
+	"Perceptions of Corruption": 0.393
+}, {
+	"Overall rank": 2,
+	"CountryOrRegion": "Denmark",
+	"Score": 7.600,
+	"GDP Per Capita": 1.383,
+	"Social Support": 1.573,
+	"Healthy Life Expectancy": 0.996,
+	"Freedom To Make Life Choices": 0.592,
+	"Generosity": 0.252,
+	"Perceptions of Corruption": 0.410
+}, {
+	"Overall rank": 3,
+	"CountryOrRegion": "Norway",
+	"Score": 7.554,
+	"GDP Per Capita": 1.488,
+	"Social Support": 1.582,
+	"Healthy Life Expectancy": 1.028,
+	"Freedom To Make Life Choices": 0.603,
+	"Generosity": 0.271,
+	"Perceptions of Corruption": 0.341
+}, {
+	"Overall rank": 4,
+	"CountryOrRegion": "Iceland",
+	"Score": 7.494,
+	"GDP Per Capita": 1.380,
+	"Social Support": 1.624,
+	"Healthy Life Expectancy": 1.026,
+	"Freedom To Make Life Choices": 0.591,
+	"Generosity": 0.354,
+	"Perceptions of Corruption": 0.118
+}, {
+	"Overall rank": 5,
+	"CountryOrRegion": "Netherlands",
+	"Score": 7.488,
+	"GDP Per Capita": 1.396,
+	"Social Support": 1.522,
+	"Healthy Life Expectancy": 0.999,
+	"Freedom To Make Life Choices": 0.557,
+	"Generosity": 0.322,
+	"Perceptions of Corruption": 0.298
+}, {
+	"Overall rank": 6,
+	"CountryOrRegion": "Switzerland",
+	"Score": 7.480,
+	"GDP Per Capita": 1.452,
+	"Social Support": 1.526,
+	"Healthy Life Expectancy": 1.052,
+	"Freedom To Make Life Choices": 0.572,
+	"Generosity": 0.263,
+	"Perceptions of Corruption": 0.343
+}, {
+	"Overall rank": 7,
+	"CountryOrRegion": "Sweden",
+	"Score": 7.343,
+	"GDP Per Capita": 1.387,
+	"Social Support": 1.487,
+	"Healthy Life Expectancy": 1.009,
+	"Freedom To Make Life Choices": 0.574,
+	"Generosity": 0.267,
+	"Perceptions of Corruption": 0.373
+}, {
+	"Overall rank": 8,
+	"CountryOrRegion": "New Zealand",
+	"Score": 7.307,
+	"GDP Per Capita": 1.303,
+	"Social Support": 1.557,
+	"Healthy Life Expectancy": 1.026,
+	"Freedom To Make Life Choices": 0.585,
+	"Generosity": 0.330,
+	"Perceptions of Corruption": 0.380
+}, {
+	"Overall rank": 9,
+	"CountryOrRegion": "Canada",
+	"Score": 7.278,
+	"GDP Per Capita": 1.365,
+	"Social Support": 1.505,
+	"Healthy Life Expectancy": 1.039,
+	"Freedom To Make Life Choices": 0.584,
+	"Generosity": 0.285,
+	"Perceptions of Corruption": 0.308
+}, {
+	"Overall rank": 10,
+	"CountryOrRegion": "Austria",
+	"Score": 7.246,
+	"GDP Per Capita": 1.376,
+	"Social Support": 1.475,
+	"Healthy Life Expectancy": 1.016,
+	"Freedom To Make Life Choices": 0.532,
+	"Generosity": 0.244,
+	"Perceptions of Corruption": 0.226
+}, {
+	"Overall rank": 11,
+	"CountryOrRegion": "Australia",
+	"Score": 7.228,
+	"GDP Per Capita": 1.372,
+	"Social Support": 1.548,
+	"Healthy Life Expectancy": 1.036,
+	"Freedom To Make Life Choices": 0.557,
+	"Generosity": 0.332,
+	"Perceptions of Corruption": 0.290
+}, {
+	"Overall rank": 12,
+	"CountryOrRegion": "Costa Rica",
+	"Score": 7.167,
+	"GDP Per Capita": 1.034,
+	"Social Support": 1.441,
+	"Healthy Life Expectancy": 0.963,
+	"Freedom To Make Life Choices": 0.558,
+	"Generosity": 0.144,
+	"Perceptions of Corruption": 0.093
+}, {
+	"Overall rank": 13,
+	"CountryOrRegion": "Israel",
+	"Score": 7.139,
+	"GDP Per Capita": 1.276,
+	"Social Support": 1.455,
+	"Healthy Life Expectancy": 1.029,
+	"Freedom To Make Life Choices": 0.371,
+	"Generosity": 0.261,
+	"Perceptions of Corruption": 0.082
+}, {
+	"Overall rank": 14,
+	"CountryOrRegion": "Luxembourg",
+	"Score": 7.090,
+	"GDP Per Capita": 1.609,
+	"Social Support": 1.479,
+	"Healthy Life Expectancy": 1.012,
+	"Freedom To Make Life Choices": 0.526,
+	"Generosity": 0.194,
+	"Perceptions of Corruption": 0.316
+}, {
+	"Overall rank": 15,
+	"CountryOrRegion": "United Kingdom",
+	"Score": 7.054,
+	"GDP Per Capita": 1.333,
+	"Social Support": 1.538,
+	"Healthy Life Expectancy": 0.996,
+	"Freedom To Make Life Choices": 0.450,
+	"Generosity": 0.348,
+	"Perceptions of Corruption": 0.278
+}, {
+	"Overall rank": 16,
+	"CountryOrRegion": "Ireland",
+	"Score": 7.021,
+	"GDP Per Capita": 1.499,
+	"Social Support": 1.553,
+	"Healthy Life Expectancy": 0.999,
+	"Freedom To Make Life Choices": 0.516,
+	"Generosity": 0.298,
+	"Perceptions of Corruption": 0.310
+}, {
+	"Overall rank": 17,
+	"CountryOrRegion": "Germany",
+	"Score": 6.985,
+	"GDP Per Capita": 1.373,
+	"Social Support": 1.454,
+	"Healthy Life Expectancy": 0.987,
+	"Freedom To Make Life Choices": 0.495,
+	"Generosity": 0.261,
+	"Perceptions of Corruption": 0.265
+}, {
+	"Overall rank": 18,
+	"CountryOrRegion": "Belgium",
+	"Score": 6.923,
+	"GDP Per Capita": 1.356,
+	"Social Support": 1.504,
+	"Healthy Life Expectancy": 0.986,
+	"Freedom To Make Life Choices": 0.473,
+	"Generosity": 0.160,
+	"Perceptions of Corruption": 0.210
+}, {
+	"Overall rank": 19,
+	"CountryOrRegion": "United States",
+	"Score": 6.892,
+	"GDP Per Capita": 1.433,
+	"Social Support": 1.457,
+	"Healthy Life Expectancy": 0.874,
+	"Freedom To Make Life Choices": 0.454,
+	"Generosity": 0.280,
+	"Perceptions of Corruption": 0.128
+}, {
+	"Overall rank": 20,
+	"CountryOrRegion": "Czech Republic",
+	"Score": 6.852,
+	"GDP Per Capita": 1.269,
+	"Social Support": 1.487,
+	"Healthy Life Expectancy": 0.920,
+	"Freedom To Make Life Choices": 0.457,
+	"Generosity": 0.046,
+	"Perceptions of Corruption": 0.036
+}, {
+	"Overall rank": 21,
+	"CountryOrRegion": "United Arab Emirates",
+	"Score": 6.825,
+	"GDP Per Capita": 1.503,
+	"Social Support": 1.310,
+	"Healthy Life Expectancy": 0.825,
+	"Freedom To Make Life Choices": 0.598,
+	"Generosity": 0.262,
+	"Perceptions of Corruption": 0.182
+}, {
+	"Overall rank": 22,
+	"CountryOrRegion": "Malta",
+	"Score": 6.726,
+	"GDP Per Capita": 1.300,
+	"Social Support": 1.520,
+	"Healthy Life Expectancy": 0.999,
+	"Freedom To Make Life Choices": 0.564,
+	"Generosity": 0.375,
+	"Perceptions of Corruption": 0.151
+}, {
+	"Overall rank": 23,
+	"CountryOrRegion": "Mexico",
+	"Score": 6.595,
+	"GDP Per Capita": 1.070,
+	"Social Support": 1.323,
+	"Healthy Life Expectancy": 0.861,
+	"Freedom To Make Life Choices": 0.433,
+	"Generosity": 0.074,
+	"Perceptions of Corruption": 0.073
+}, {
+	"Overall rank": 24,
+	"CountryOrRegion": "France",
+	"Score": 6.592,
+	"GDP Per Capita": 1.324,
+	"Social Support": 1.472,
+	"Healthy Life Expectancy": 1.045,
+	"Freedom To Make Life Choices": 0.436,
+	"Generosity": 0.111,
+	"Perceptions of Corruption": 0.183
+}, {
+	"Overall rank": 25,
+	"CountryOrRegion": "Taiwan",
+	"Score": 6.446,
+	"GDP Per Capita": 1.368,
+	"Social Support": 1.430,
+	"Healthy Life Expectancy": 0.914,
+	"Freedom To Make Life Choices": 0.351,
+	"Generosity": 0.242,
+	"Perceptions of Corruption": 0.097
+}, {
+	"Overall rank": 26,
+	"CountryOrRegion": "Chile",
+	"Score": 6.444,
+	"GDP Per Capita": 1.159,
+	"Social Support": 1.369,
+	"Healthy Life Expectancy": 0.920,
+	"Freedom To Make Life Choices": 0.357,
+	"Generosity": 0.187,
+	"Perceptions of Corruption": 0.056
+}, {
+	"Overall rank": 27,
+	"CountryOrRegion": "Guatemala",
+	"Score": 6.436,
+	"GDP Per Capita": 0.800,
+	"Social Support": 1.269,
+	"Healthy Life Expectancy": 0.746,
+	"Freedom To Make Life Choices": 0.535,
+	"Generosity": 0.175,
+	"Perceptions of Corruption": 0.078
+}, {
+	"Overall rank": 28,
+	"CountryOrRegion": "Saudi Arabia",
+	"Score": 6.375,
+	"GDP Per Capita": 1.403,
+	"Social Support": 1.357,
+	"Healthy Life Expectancy": 0.795,
+	"Freedom To Make Life Choices": 0.439,
+	"Generosity": 0.080,
+	"Perceptions of Corruption": 0.132
+}, {
+	"Overall rank": 29,
+	"CountryOrRegion": "Qatar",
+	"Score": 6.374,
+	"GDP Per Capita": 1.684,
+	"Social Support": 1.313,
+	"Healthy Life Expectancy": 0.871,
+	"Freedom To Make Life Choices": 0.555,
+	"Generosity": 0.220,
+	"Perceptions of Corruption": 0.167
+}, {
+	"Overall rank": 30,
+	"CountryOrRegion": "Spain",
+	"Score": 6.354,
+	"GDP Per Capita": 1.286,
+	"Social Support": 1.484,
+	"Healthy Life Expectancy": 1.062,
+	"Freedom To Make Life Choices": 0.362,
+	"Generosity": 0.153,
+	"Perceptions of Corruption": 0.079
+}, {
+	"Overall rank": 31,
+	"CountryOrRegion": "Panama",
+	"Score": 6.321,
+	"GDP Per Capita": 1.149,
+	"Social Support": 1.442,
+	"Healthy Life Expectancy": 0.910,
+	"Freedom To Make Life Choices": 0.516,
+	"Generosity": 0.109,
+	"Perceptions of Corruption": 0.054
+}, {
+	"Overall rank": 32,
+	"CountryOrRegion": "Brazil",
+	"Score": 6.300,
+	"GDP Per Capita": 1.004,
+	"Social Support": 1.439,
+	"Healthy Life Expectancy": 0.802,
+	"Freedom To Make Life Choices": 0.390,
+	"Generosity": 0.099,
+	"Perceptions of Corruption": 0.086
+}, {
+	"Overall rank": 33,
+	"CountryOrRegion": "Uruguay",
+	"Score": 6.293,
+	"GDP Per Capita": 1.124,
+	"Social Support": 1.465,
+	"Healthy Life Expectancy": 0.891,
+	"Freedom To Make Life Choices": 0.523,
+	"Generosity": 0.127,
+	"Perceptions of Corruption": 0.150
+}, {
+	"Overall rank": 34,
+	"CountryOrRegion": "Singapore",
+	"Score": 6.262,
+	"GDP Per Capita": 1.572,
+	"Social Support": 1.463,
+	"Healthy Life Expectancy": 1.141,
+	"Freedom To Make Life Choices": 0.556,
+	"Generosity": 0.271,
+	"Perceptions of Corruption": 0.453
+}, {
+	"Overall rank": 35,
+	"CountryOrRegion": "El Salvador",
+	"Score": 6.253,
+	"GDP Per Capita": 0.794,
+	"Social Support": 1.242,
+	"Healthy Life Expectancy": 0.789,
+	"Freedom To Make Life Choices": 0.430,
+	"Generosity": 0.093,
+	"Perceptions of Corruption": 0.074
+}, {
+	"Overall rank": 36,
+	"CountryOrRegion": "Italy",
+	"Score": 6.223,
+	"GDP Per Capita": 1.294,
+	"Social Support": 1.488,
+	"Healthy Life Expectancy": 1.039,
+	"Freedom To Make Life Choices": 0.231,
+	"Generosity": 0.158,
+	"Perceptions of Corruption": 0.030
+}, {
+	"Overall rank": 37,
+	"CountryOrRegion": "Bahrain",
+	"Score": 6.199,
+	"GDP Per Capita": 1.362,
+	"Social Support": 1.368,
+	"Healthy Life Expectancy": 0.871,
+	"Freedom To Make Life Choices": 0.536,
+	"Generosity": 0.255,
+	"Perceptions of Corruption": 0.110
+}, {
+	"Overall rank": 38,
+	"CountryOrRegion": "Slovakia",
+	"Score": 6.198,
+	"GDP Per Capita": 1.246,
+	"Social Support": 1.504,
+	"Healthy Life Expectancy": 0.881,
+	"Freedom To Make Life Choices": 0.334,
+	"Generosity": 0.121,
+	"Perceptions of Corruption": 0.014
+}, {
+	"Overall rank": 39,
+	"CountryOrRegion": "Trinidad & Tobago",
+	"Score": 6.192,
+	"GDP Per Capita": 1.231,
+	"Social Support": 1.477,
+	"Healthy Life Expectancy": 0.713,
+	"Freedom To Make Life Choices": 0.489,
+	"Generosity": 0.185,
+	"Perceptions of Corruption": 0.016
+}, {
+	"Overall rank": 40,
+	"CountryOrRegion": "Poland",
+	"Score": 6.182,
+	"GDP Per Capita": 1.206,
+	"Social Support": 1.438,
+	"Healthy Life Expectancy": 0.884,
+	"Freedom To Make Life Choices": 0.483,
+	"Generosity": 0.117,
+	"Perceptions of Corruption": 0.050
+}, {
+	"Overall rank": 41,
+	"CountryOrRegion": "Uzbekistan",
+	"Score": 6.174,
+	"GDP Per Capita": 0.745,
+	"Social Support": 1.529,
+	"Healthy Life Expectancy": 0.756,
+	"Freedom To Make Life Choices": 0.631,
+	"Generosity": 0.322,
+	"Perceptions of Corruption": 0.240
+}, {
+	"Overall rank": 42,
+	"CountryOrRegion": "Lithuania",
+	"Score": 6.149,
+	"GDP Per Capita": 1.238,
+	"Social Support": 1.515,
+	"Healthy Life Expectancy": 0.818,
+	"Freedom To Make Life Choices": 0.291,
+	"Generosity": 0.043,
+	"Perceptions of Corruption": 0.042
+}, {
+	"Overall rank": 43,
+	"CountryOrRegion": "Colombia",
+	"Score": 6.125,
+	"GDP Per Capita": 0.985,
+	"Social Support": 1.410,
+	"Healthy Life Expectancy": 0.841,
+	"Freedom To Make Life Choices": 0.470,
+	"Generosity": 0.099,
+	"Perceptions of Corruption": 0.034
+}, {
+	"Overall rank": 44,
+	"CountryOrRegion": "Slovenia",
+	"Score": 6.118,
+	"GDP Per Capita": 1.258,
+	"Social Support": 1.523,
+	"Healthy Life Expectancy": 0.953,
+	"Freedom To Make Life Choices": 0.564,
+	"Generosity": 0.144,
+	"Perceptions of Corruption": 0.057
+}, {
+	"Overall rank": 45,
+	"CountryOrRegion": "Nicaragua",
+	"Score": 6.105,
+	"GDP Per Capita": 0.694,
+	"Social Support": 1.325,
+	"Healthy Life Expectancy": 0.835,
+	"Freedom To Make Life Choices": 0.435,
+	"Generosity": 0.200,
+	"Perceptions of Corruption": 0.127
+}, {
+	"Overall rank": 46,
+	"CountryOrRegion": "Kosovo",
+	"Score": 6.100,
+	"GDP Per Capita": 0.882,
+	"Social Support": 1.232,
+	"Healthy Life Expectancy": 0.758,
+	"Freedom To Make Life Choices": 0.489,
+	"Generosity": 0.262,
+	"Perceptions of Corruption": 0.006
+}, {
+	"Overall rank": 47,
+	"CountryOrRegion": "Argentina",
+	"Score": 6.086,
+	"GDP Per Capita": 1.092,
+	"Social Support": 1.432,
+	"Healthy Life Expectancy": 0.881,
+	"Freedom To Make Life Choices": 0.471,
+	"Generosity": 0.066,
+	"Perceptions of Corruption": 0.050
+}, {
+	"Overall rank": 48,
+	"CountryOrRegion": "Romania",
+	"Score": 6.070,
+	"GDP Per Capita": 1.162,
+	"Social Support": 1.232,
+	"Healthy Life Expectancy": 0.825,
+	"Freedom To Make Life Choices": 0.462,
+	"Generosity": 0.083,
+	"Perceptions of Corruption": 0.005
+}, {
+	"Overall rank": 49,
+	"CountryOrRegion": "Cyprus",
+	"Score": 6.046,
+	"GDP Per Capita": 1.263,
+	"Social Support": 1.223,
+	"Healthy Life Expectancy": 1.042,
+	"Freedom To Make Life Choices": 0.406,
+	"Generosity": 0.190,
+	"Perceptions of Corruption": 0.041
+}, {
+	"Overall rank": 50,
+	"CountryOrRegion": "Ecuador",
+	"Score": 6.028,
+	"GDP Per Capita": 0.912,
+	"Social Support": 1.312,
+	"Healthy Life Expectancy": 0.868,
+	"Freedom To Make Life Choices": 0.498,
+	"Generosity": 0.126,
+	"Perceptions of Corruption": 0.087
+}, {
+	"Overall rank": 51,
+	"CountryOrRegion": "Kuwait",
+	"Score": 6.021,
+	"GDP Per Capita": 1.500,
+	"Social Support": 1.319,
+	"Healthy Life Expectancy": 0.808,
+	"Freedom To Make Life Choices": 0.493,
+	"Generosity": 0.142,
+	"Perceptions of Corruption": 0.097
+}, {
+	"Overall rank": 52,
+	"CountryOrRegion": "Thailand",
+	"Score": 6.008,
+	"GDP Per Capita": 1.050,
+	"Social Support": 1.409,
+	"Healthy Life Expectancy": 0.828,
+	"Freedom To Make Life Choices": 0.557,
+	"Generosity": 0.359,
+	"Perceptions of Corruption": 0.028
+}, {
+	"Overall rank": 53,
+	"CountryOrRegion": "Latvia",
+	"Score": 5.940,
+	"GDP Per Capita": 1.187,
+	"Social Support": 1.465,
+	"Healthy Life Expectancy": 0.812,
+	"Freedom To Make Life Choices": 0.264,
+	"Generosity": 0.075,
+	"Perceptions of Corruption": 0.064
+}, {
+	"Overall rank": 54,
+	"CountryOrRegion": "South Korea",
+	"Score": 5.895,
+	"GDP Per Capita": 1.301,
+	"Social Support": 1.219,
+	"Healthy Life Expectancy": 1.036,
+	"Freedom To Make Life Choices": 0.159,
+	"Generosity": 0.175,
+	"Perceptions of Corruption": 0.056
+}, {
+	"Overall rank": 55,
+	"CountryOrRegion": "Estonia",
+	"Score": 5.893,
+	"GDP Per Capita": 1.237,
+	"Social Support": 1.528,
+	"Healthy Life Expectancy": 0.874,
+	"Freedom To Make Life Choices": 0.495,
+	"Generosity": 0.103,
+	"Perceptions of Corruption": 0.161
+}, {
+	"Overall rank": 56,
+	"CountryOrRegion": "Jamaica",
+	"Score": 5.890,
+	"GDP Per Capita": 0.831,
+	"Social Support": 1.478,
+	"Healthy Life Expectancy": 0.831,
+	"Freedom To Make Life Choices": 0.490,
+	"Generosity": 0.107,
+	"Perceptions of Corruption": 0.028
+}, {
+	"Overall rank": 57,
+	"CountryOrRegion": "Mauritius",
+	"Score": 5.888,
+	"GDP Per Capita": 1.120,
+	"Social Support": 1.402,
+	"Healthy Life Expectancy": 0.798,
+	"Freedom To Make Life Choices": 0.498,
+	"Generosity": 0.215,
+	"Perceptions of Corruption": 0.060
+}, {
+	"Overall rank": 58,
+	"CountryOrRegion": "Japan",
+	"Score": 5.886,
+	"GDP Per Capita": 1.327,
+	"Social Support": 1.419,
+	"Healthy Life Expectancy": 1.088,
+	"Freedom To Make Life Choices": 0.445,
+	"Generosity": 0.069,
+	"Perceptions of Corruption": 0.140
+}, {
+	"Overall rank": 59,
+	"CountryOrRegion": "Honduras",
+	"Score": 5.860,
+	"GDP Per Capita": 0.642,
+	"Social Support": 1.236,
+	"Healthy Life Expectancy": 0.828,
+	"Freedom To Make Life Choices": 0.507,
+	"Generosity": 0.246,
+	"Perceptions of Corruption": 0.078
+}, {
+	"Overall rank": 60,
+	"CountryOrRegion": "Kazakhstan",
+	"Score": 5.809,
+	"GDP Per Capita": 1.173,
+	"Social Support": 1.508,
+	"Healthy Life Expectancy": 0.729,
+	"Freedom To Make Life Choices": 0.410,
+	"Generosity": 0.146,
+	"Perceptions of Corruption": 0.096
+}, {
+	"Overall rank": 61,
+	"CountryOrRegion": "Bolivia",
+	"Score": 5.779,
+	"GDP Per Capita": 0.776,
+	"Social Support": 1.209,
+	"Healthy Life Expectancy": 0.706,
+	"Freedom To Make Life Choices": 0.511,
+	"Generosity": 0.137,
+	"Perceptions of Corruption": 0.064
+}, {
+	"Overall rank": 62,
+	"CountryOrRegion": "Hungary",
+	"Score": 5.758,
+	"GDP Per Capita": 1.201,
+	"Social Support": 1.410,
+	"Healthy Life Expectancy": 0.828,
+	"Freedom To Make Life Choices": 0.199,
+	"Generosity": 0.081,
+	"Perceptions of Corruption": 0.020
+}, {
+	"Overall rank": 63,
+	"CountryOrRegion": "Paraguay",
+	"Score": 5.743,
+	"GDP Per Capita": 0.855,
+	"Social Support": 1.475,
+	"Healthy Life Expectancy": 0.777,
+	"Freedom To Make Life Choices": 0.514,
+	"Generosity": 0.184,
+	"Perceptions of Corruption": 0.080
+}, {
+	"Overall rank": 64,
+	"CountryOrRegion": "Northern Cyprus",
+	"Score": 5.718,
+	"GDP Per Capita": 1.263,
+	"Social Support": 1.252,
+	"Healthy Life Expectancy": 1.042,
+	"Freedom To Make Life Choices": 0.417,
+	"Generosity": 0.191,
+	"Perceptions of Corruption": 0.162
+}, {
+	"Overall rank": 65,
+	"CountryOrRegion": "Peru",
+	"Score": 5.697,
+	"GDP Per Capita": 0.960,
+	"Social Support": 1.274,
+	"Healthy Life Expectancy": 0.854,
+	"Freedom To Make Life Choices": 0.455,
+	"Generosity": 0.083,
+	"Perceptions of Corruption": 0.027
+}, {
+	"Overall rank": 66,
+	"CountryOrRegion": "Portugal",
+	"Score": 5.693,
+	"GDP Per Capita": 1.221,
+	"Social Support": 1.431,
+	"Healthy Life Expectancy": 0.999,
+	"Freedom To Make Life Choices": 0.508,
+	"Generosity": 0.047,
+	"Perceptions of Corruption": 0.025
+}, {
+	"Overall rank": 67,
+	"CountryOrRegion": "Pakistan",
+	"Score": 5.653,
+	"GDP Per Capita": 0.677,
+	"Social Support": 0.886,
+	"Healthy Life Expectancy": 0.535,
+	"Freedom To Make Life Choices": 0.313,
+	"Generosity": 0.220,
+	"Perceptions of Corruption": 0.098
+}, {
+	"Overall rank": 68,
+	"CountryOrRegion": "Russia",
+	"Score": 5.648,
+	"GDP Per Capita": 1.183,
+	"Social Support": 1.452,
+	"Healthy Life Expectancy": 0.726,
+	"Freedom To Make Life Choices": 0.334,
+	"Generosity": 0.082,
+	"Perceptions of Corruption": 0.031
+}, {
+	"Overall rank": 69,
+	"CountryOrRegion": "Philippines",
+	"Score": 5.631,
+	"GDP Per Capita": 0.807,
+	"Social Support": 1.293,
+	"Healthy Life Expectancy": 0.657,
+	"Freedom To Make Life Choices": 0.558,
+	"Generosity": 0.117,
+	"Perceptions of Corruption": 0.107
+}, {
+	"Overall rank": 70,
+	"CountryOrRegion": "Serbia",
+	"Score": 5.603,
+	"GDP Per Capita": 1.004,
+	"Social Support": 1.383,
+	"Healthy Life Expectancy": 0.854,
+	"Freedom To Make Life Choices": 0.282,
+	"Generosity": 0.137,
+	"Perceptions of Corruption": 0.039
+}, {
+	"Overall rank": 71,
+	"CountryOrRegion": "Moldova",
+	"Score": 5.529,
+	"GDP Per Capita": 0.685,
+	"Social Support": 1.328,
+	"Healthy Life Expectancy": 0.739,
+	"Freedom To Make Life Choices": 0.245,
+	"Generosity": 0.181,
+	"Perceptions of Corruption": 0.000
+}, {
+	"Overall rank": 72,
+	"CountryOrRegion": "Libya",
+	"Score": 5.525,
+	"GDP Per Capita": 1.044,
+	"Social Support": 1.303,
+	"Healthy Life Expectancy": 0.673,
+	"Freedom To Make Life Choices": 0.416,
+	"Generosity": 0.133,
+	"Perceptions of Corruption": 0.152
+}, {
+	"Overall rank": 73,
+	"CountryOrRegion": "Montenegro",
+	"Score": 5.523,
+	"GDP Per Capita": 1.051,
+	"Social Support": 1.361,
+	"Healthy Life Expectancy": 0.871,
+	"Freedom To Make Life Choices": 0.197,
+	"Generosity": 0.142,
+	"Perceptions of Corruption": 0.080
+}, {
+	"Overall rank": 74,
+	"CountryOrRegion": "Tajikistan",
+	"Score": 5.467,
+	"GDP Per Capita": 0.493,
+	"Social Support": 1.098,
+	"Healthy Life Expectancy": 0.718,
+	"Freedom To Make Life Choices": 0.389,
+	"Generosity": 0.230,
+	"Perceptions of Corruption": 0.144
+}, {
+	"Overall rank": 75,
+	"CountryOrRegion": "Croatia",
+	"Score": 5.432,
+	"GDP Per Capita": 1.155,
+	"Social Support": 1.266,
+	"Healthy Life Expectancy": 0.914,
+	"Freedom To Make Life Choices": 0.296,
+	"Generosity": 0.119,
+	"Perceptions of Corruption": 0.022
+}, {
+	"Overall rank": 76,
+	"CountryOrRegion": "Hong Kong",
+	"Score": 5.430,
+	"GDP Per Capita": 1.438,
+	"Social Support": 1.277,
+	"Healthy Life Expectancy": 1.122,
+	"Freedom To Make Life Choices": 0.440,
+	"Generosity": 0.258,
+	"Perceptions of Corruption": 0.287
+}, {
+	"Overall rank": 77,
+	"CountryOrRegion": "Dominican Republic",
+	"Score": 5.425,
+	"GDP Per Capita": 1.015,
+	"Social Support": 1.401,
+	"Healthy Life Expectancy": 0.779,
+	"Freedom To Make Life Choices": 0.497,
+	"Generosity": 0.113,
+	"Perceptions of Corruption": 0.101
+}, {
+	"Overall rank": 78,
+	"CountryOrRegion": "Bosnia and Herzegovina",
+	"Score": 5.386,
+	"GDP Per Capita": 0.945,
+	"Social Support": 1.212,
+	"Healthy Life Expectancy": 0.845,
+	"Freedom To Make Life Choices": 0.212,
+	"Generosity": 0.263,
+	"Perceptions of Corruption": 0.006
+}, {
+	"Overall rank": 79,
+	"CountryOrRegion": "Turkey",
+	"Score": 5.373,
+	"GDP Per Capita": 1.183,
+	"Social Support": 1.360,
+	"Healthy Life Expectancy": 0.808,
+	"Freedom To Make Life Choices": 0.195,
+	"Generosity": 0.083,
+	"Perceptions of Corruption": 0.106
+}, {
+	"Overall rank": 80,
+	"CountryOrRegion": "Malaysia",
+	"Score": 5.339,
+	"GDP Per Capita": 1.221,
+	"Social Support": 1.171,
+	"Healthy Life Expectancy": 0.828,
+	"Freedom To Make Life Choices": 0.508,
+	"Generosity": 0.260,
+	"Perceptions of Corruption": 0.024
+}, {
+	"Overall rank": 81,
+	"CountryOrRegion": "Belarus",
+	"Score": 5.323,
+	"GDP Per Capita": 1.067,
+	"Social Support": 1.465,
+	"Healthy Life Expectancy": 0.789,
+	"Freedom To Make Life Choices": 0.235,
+	"Generosity": 0.094,
+	"Perceptions of Corruption": 0.142
+}, {
+	"Overall rank": 82,
+	"CountryOrRegion": "Greece",
+	"Score": 5.287,
+	"GDP Per Capita": 1.181,
+	"Social Support": 1.156,
+	"Healthy Life Expectancy": 0.999,
+	"Freedom To Make Life Choices": 0.067,
+	"Generosity": 0.000,
+	"Perceptions of Corruption": 0.034
+}, {
+	"Overall rank": 83,
+	"CountryOrRegion": "Mongolia",
+	"Score": 5.285,
+	"GDP Per Capita": 0.948,
+	"Social Support": 1.531,
+	"Healthy Life Expectancy": 0.667,
+	"Freedom To Make Life Choices": 0.317,
+	"Generosity": 0.235,
+	"Perceptions of Corruption": 0.038
+}, {
+	"Overall rank": 84,
+	"CountryOrRegion": "North Macedonia",
+	"Score": 5.274,
+	"GDP Per Capita": 0.983,
+	"Social Support": 1.294,
+	"Healthy Life Expectancy": 0.838,
+	"Freedom To Make Life Choices": 0.345,
+	"Generosity": 0.185,
+	"Perceptions of Corruption": 0.034
+}, {
+	"Overall rank": 85,
+	"CountryOrRegion": "Nigeria",
+	"Score": 5.265,
+	"GDP Per Capita": 0.696,
+	"Social Support": 1.111,
+	"Healthy Life Expectancy": 0.245,
+	"Freedom To Make Life Choices": 0.426,
+	"Generosity": 0.215,
+	"Perceptions of Corruption": 0.041
+}, {
+	"Overall rank": 86,
+	"CountryOrRegion": "Kyrgyzstan",
+	"Score": 5.261,
+	"GDP Per Capita": 0.551,
+	"Social Support": 1.438,
+	"Healthy Life Expectancy": 0.723,
+	"Freedom To Make Life Choices": 0.508,
+	"Generosity": 0.300,
+	"Perceptions of Corruption": 0.023
+}, {
+	"Overall rank": 87,
+	"CountryOrRegion": "Turkmenistan",
+	"Score": 5.247,
+	"GDP Per Capita": 1.052,
+	"Social Support": 1.538,
+	"Healthy Life Expectancy": 0.657,
+	"Freedom To Make Life Choices": 0.394,
+	"Generosity": 0.244,
+	"Perceptions of Corruption": 0.028
+}, {
+	"Overall rank": 88,
+	"CountryOrRegion": "Algeria",
+	"Score": 5.211,
+	"GDP Per Capita": 1.002,
+	"Social Support": 1.160,
+	"Healthy Life Expectancy": 0.785,
+	"Freedom To Make Life Choices": 0.086,
+	"Generosity": 0.073,
+	"Perceptions of Corruption": 0.114
+}, {
+	"Overall rank": 89,
+	"CountryOrRegion": "Morocco",
+	"Score": 5.208,
+	"GDP Per Capita": 0.801,
+	"Social Support": 0.782,
+	"Healthy Life Expectancy": 0.782,
+	"Freedom To Make Life Choices": 0.418,
+	"Generosity": 0.036,
+	"Perceptions of Corruption": 0.076
+}, {
+	"Overall rank": 90,
+	"CountryOrRegion": "Azerbaijan",
+	"Score": 5.208,
+	"GDP Per Capita": 1.043,
+	"Social Support": 1.147,
+	"Healthy Life Expectancy": 0.769,
+	"Freedom To Make Life Choices": 0.351,
+	"Generosity": 0.035,
+	"Perceptions of Corruption": 0.182
+}, {
+	"Overall rank": 91,
+	"CountryOrRegion": "Lebanon",
+	"Score": 5.197,
+	"GDP Per Capita": 0.987,
+	"Social Support": 1.224,
+	"Healthy Life Expectancy": 0.815,
+	"Freedom To Make Life Choices": 0.216,
+	"Generosity": 0.166,
+	"Perceptions of Corruption": 0.027
+}, {
+	"Overall rank": 92,
+	"CountryOrRegion": "Indonesia",
+	"Score": 5.192,
+	"GDP Per Capita": 0.931,
+	"Social Support": 1.203,
+	"Healthy Life Expectancy": 0.660,
+	"Freedom To Make Life Choices": 0.491,
+	"Generosity": 0.498,
+	"Perceptions of Corruption": 0.028
+}, {
+	"Overall rank": 93,
+	"CountryOrRegion": "China",
+	"Score": 5.191,
+	"GDP Per Capita": 1.029,
+	"Social Support": 1.125,
+	"Healthy Life Expectancy": 0.893,
+	"Freedom To Make Life Choices": 0.521,
+	"Generosity": 0.058,
+	"Perceptions of Corruption": 0.100
+}, {
+	"Overall rank": 94,
+	"CountryOrRegion": "Vietnam",
+	"Score": 5.175,
+	"GDP Per Capita": 0.741,
+	"Social Support": 1.346,
+	"Healthy Life Expectancy": 0.851,
+	"Freedom To Make Life Choices": 0.543,
+	"Generosity": 0.147,
+	"Perceptions of Corruption": 0.073
+}, {
+	"Overall rank": 95,
+	"CountryOrRegion": "Bhutan",
+	"Score": 5.082,
+	"GDP Per Capita": 0.813,
+	"Social Support": 1.321,
+	"Healthy Life Expectancy": 0.604,
+	"Freedom To Make Life Choices": 0.457,
+	"Generosity": 0.370,
+	"Perceptions of Corruption": 0.167
+}, {
+	"Overall rank": 96,
+	"CountryOrRegion": "Cameroon",
+	"Score": 5.044,
+	"GDP Per Capita": 0.549,
+	"Social Support": 0.910,
+	"Healthy Life Expectancy": 0.331,
+	"Freedom To Make Life Choices": 0.381,
+	"Generosity": 0.187,
+	"Perceptions of Corruption": 0.037
+}, {
+	"Overall rank": 97,
+	"CountryOrRegion": "Bulgaria",
+	"Score": 5.011,
+	"GDP Per Capita": 1.092,
+	"Social Support": 1.513,
+	"Healthy Life Expectancy": 0.815,
+	"Freedom To Make Life Choices": 0.311,
+	"Generosity": 0.081,
+	"Perceptions of Corruption": 0.004
+}, {
+	"Overall rank": 98,
+	"CountryOrRegion": "Ghana",
+	"Score": 4.996,
+	"GDP Per Capita": 0.611,
+	"Social Support": 0.868,
+	"Healthy Life Expectancy": 0.486,
+	"Freedom To Make Life Choices": 0.381,
+	"Generosity": 0.245,
+	"Perceptions of Corruption": 0.040
+}, {
+	"Overall rank": 99,
+	"CountryOrRegion": "Ivory Coast",
+	"Score": 4.944,
+	"GDP Per Capita": 0.569,
+	"Social Support": 0.808,
+	"Healthy Life Expectancy": 0.232,
+	"Freedom To Make Life Choices": 0.352,
+	"Generosity": 0.154,
+	"Perceptions of Corruption": 0.090
+}, {
+	"Overall rank": 100,
+	"CountryOrRegion": "Nepal",
+	"Score": 4.913,
+	"GDP Per Capita": 0.446,
+	"Social Support": 1.226,
+	"Healthy Life Expectancy": 0.677,
+	"Freedom To Make Life Choices": 0.439,
+	"Generosity": 0.285,
+	"Perceptions of Corruption": 0.089
+}, {
+	"Overall rank": 101,
+	"CountryOrRegion": "Jordan",
+	"Score": 4.906,
+	"GDP Per Capita": 0.837,
+	"Social Support": 1.225,
+	"Healthy Life Expectancy": 0.815,
+	"Freedom To Make Life Choices": 0.383,
+	"Generosity": 0.110,
+	"Perceptions of Corruption": 0.130
+}, {
+	"Overall rank": 102,
+	"CountryOrRegion": "Benin",
+	"Score": 4.883,
+	"GDP Per Capita": 0.393,
+	"Social Support": 0.437,
+	"Healthy Life Expectancy": 0.397,
+	"Freedom To Make Life Choices": 0.349,
+	"Generosity": 0.175,
+	"Perceptions of Corruption": 0.082
+}, {
+	"Overall rank": 103,
+	"CountryOrRegion": "Congo (Brazzaville)",
+	"Score": 4.812,
+	"GDP Per Capita": 0.673,
+	"Social Support": 0.799,
+	"Healthy Life Expectancy": 0.508,
+	"Freedom To Make Life Choices": 0.372,
+	"Generosity": 0.105,
+	"Perceptions of Corruption": 0.093
+}, {
+	"Overall rank": 104,
+	"CountryOrRegion": "Gabon",
+	"Score": 4.799,
+	"GDP Per Capita": 1.057,
+	"Social Support": 1.183,
+	"Healthy Life Expectancy": 0.571,
+	"Freedom To Make Life Choices": 0.295,
+	"Generosity": 0.043,
+	"Perceptions of Corruption": 0.055
+}, {
+	"Overall rank": 105,
+	"CountryOrRegion": "Laos",
+	"Score": 4.796,
+	"GDP Per Capita": 0.764,
+	"Social Support": 1.030,
+	"Healthy Life Expectancy": 0.551,
+	"Freedom To Make Life Choices": 0.547,
+	"Generosity": 0.266,
+	"Perceptions of Corruption": 0.164
+}, {
+	"Overall rank": 106,
+	"CountryOrRegion": "South Africa",
+	"Score": 4.722,
+	"GDP Per Capita": 0.960,
+	"Social Support": 1.351,
+	"Healthy Life Expectancy": 0.469,
+	"Freedom To Make Life Choices": 0.389,
+	"Generosity": 0.130,
+	"Perceptions of Corruption": 0.055
+}, {
+	"Overall rank": 107,
+	"CountryOrRegion": "Albania",
+	"Score": 4.719,
+	"GDP Per Capita": 0.947,
+	"Social Support": 0.848,
+	"Healthy Life Expectancy": 0.874,
+	"Freedom To Make Life Choices": 0.383,
+	"Generosity": 0.178,
+	"Perceptions of Corruption": 0.027
+}, {
+	"Overall rank": 108,
+	"CountryOrRegion": "Venezuela",
+	"Score": 4.707,
+	"GDP Per Capita": 0.960,
+	"Social Support": 1.427,
+	"Healthy Life Expectancy": 0.805,
+	"Freedom To Make Life Choices": 0.154,
+	"Generosity": 0.064,
+	"Perceptions of Corruption": 0.047
+}, {
+	"Overall rank": 109,
+	"CountryOrRegion": "Cambodia",
+	"Score": 4.700,
+	"GDP Per Capita": 0.574,
+	"Social Support": 1.122,
+	"Healthy Life Expectancy": 0.637,
+	"Freedom To Make Life Choices": 0.609,
+	"Generosity": 0.232,
+	"Perceptions of Corruption": 0.062
+}, {
+	"Overall rank": 110,
+	"CountryOrRegion": "Palestinian Territories",
+	"Score": 4.696,
+	"GDP Per Capita": 0.657,
+	"Social Support": 1.247,
+	"Healthy Life Expectancy": 0.672,
+	"Freedom To Make Life Choices": 0.225,
+	"Generosity": 0.103,
+	"Perceptions of Corruption": 0.066
+}, {
+	"Overall rank": 111,
+	"CountryOrRegion": "Senegal",
+	"Score": 4.681,
+	"GDP Per Capita": 0.450,
+	"Social Support": 1.134,
+	"Healthy Life Expectancy": 0.571,
+	"Freedom To Make Life Choices": 0.292,
+	"Generosity": 0.153,
+	"Perceptions of Corruption": 0.072
+}, {
+	"Overall rank": 112,
+	"CountryOrRegion": "Somalia",
+	"Score": 4.668,
+	"GDP Per Capita": 0.000,
+	"Social Support": 0.698,
+	"Healthy Life Expectancy": 0.268,
+	"Freedom To Make Life Choices": 0.559,
+	"Generosity": 0.243,
+	"Perceptions of Corruption": 0.270
+}, {
+	"Overall rank": 113,
+	"CountryOrRegion": "Namibia",
+	"Score": 4.639,
+	"GDP Per Capita": 0.879,
+	"Social Support": 1.313,
+	"Healthy Life Expectancy": 0.477,
+	"Freedom To Make Life Choices": 0.401,
+	"Generosity": 0.070,
+	"Perceptions of Corruption": 0.056
+}, {
+	"Overall rank": 114,
+	"CountryOrRegion": "Niger",
+	"Score": 4.628,
+	"GDP Per Capita": 0.138,
+	"Social Support": 0.774,
+	"Healthy Life Expectancy": 0.366,
+	"Freedom To Make Life Choices": 0.318,
+	"Generosity": 0.188,
+	"Perceptions of Corruption": 0.102
+}, {
+	"Overall rank": 115,
+	"CountryOrRegion": "Burkina Faso",
+	"Score": 4.587,
+	"GDP Per Capita": 0.331,
+	"Social Support": 1.056,
+	"Healthy Life Expectancy": 0.380,
+	"Freedom To Make Life Choices": 0.255,
+	"Generosity": 0.177,
+	"Perceptions of Corruption": 0.113
+}, {
+	"Overall rank": 116,
+	"CountryOrRegion": "Armenia",
+	"Score": 4.559,
+	"GDP Per Capita": 0.850,
+	"Social Support": 1.055,
+	"Healthy Life Expectancy": 0.815,
+	"Freedom To Make Life Choices": 0.283,
+	"Generosity": 0.095,
+	"Perceptions of Corruption": 0.064
+}, {
+	"Overall rank": 117,
+	"CountryOrRegion": "Iran",
+	"Score": 4.548,
+	"GDP Per Capita": 1.100,
+	"Social Support": 0.842,
+	"Healthy Life Expectancy": 0.785,
+	"Freedom To Make Life Choices": 0.305,
+	"Generosity": 0.270,
+	"Perceptions of Corruption": 0.125
+}, {
+	"Overall rank": 118,
+	"CountryOrRegion": "Guinea",
+	"Score": 4.534,
+	"GDP Per Capita": 0.380,
+	"Social Support": 0.829,
+	"Healthy Life Expectancy": 0.375,
+	"Freedom To Make Life Choices": 0.332,
+	"Generosity": 0.207,
+	"Perceptions of Corruption": 0.086
+}, {
+	"Overall rank": 119,
+	"CountryOrRegion": "Georgia",
+	"Score": 4.519,
+	"GDP Per Capita": 0.886,
+	"Social Support": 0.666,
+	"Healthy Life Expectancy": 0.752,
+	"Freedom To Make Life Choices": 0.346,
+	"Generosity": 0.043,
+	"Perceptions of Corruption": 0.164
+}, {
+	"Overall rank": 120,
+	"CountryOrRegion": "Gambia",
+	"Score": 4.516,
+	"GDP Per Capita": 0.308,
+	"Social Support": 0.939,
+	"Healthy Life Expectancy": 0.428,
+	"Freedom To Make Life Choices": 0.382,
+	"Generosity": 0.269,
+	"Perceptions of Corruption": 0.167
+}, {
+	"Overall rank": 121,
+	"CountryOrRegion": "Kenya",
+	"Score": 4.509,
+	"GDP Per Capita": 0.512,
+	"Social Support": 0.983,
+	"Healthy Life Expectancy": 0.581,
+	"Freedom To Make Life Choices": 0.431,
+	"Generosity": 0.372,
+	"Perceptions of Corruption": 0.053
+}, {
+	"Overall rank": 122,
+	"CountryOrRegion": "Mauritania",
+	"Score": 4.490,
+	"GDP Per Capita": 0.570,
+	"Social Support": 1.167,
+	"Healthy Life Expectancy": 0.489,
+	"Freedom To Make Life Choices": 0.066,
+	"Generosity": 0.106,
+	"Perceptions of Corruption": 0.088
+}, {
+	"Overall rank": 123,
+	"CountryOrRegion": "Mozambique",
+	"Score": 4.466,
+	"GDP Per Capita": 0.204,
+	"Social Support": 0.986,
+	"Healthy Life Expectancy": 0.390,
+	"Freedom To Make Life Choices": 0.494,
+	"Generosity": 0.197,
+	"Perceptions of Corruption": 0.138
+}, {
+	"Overall rank": 124,
+	"CountryOrRegion": "Tunisia",
+	"Score": 4.461,
+	"GDP Per Capita": 0.921,
+	"Social Support": 1.000,
+	"Healthy Life Expectancy": 0.815,
+	"Freedom To Make Life Choices": 0.167,
+	"Generosity": 0.059,
+	"Perceptions of Corruption": 0.055
+}, {
+	"Overall rank": 125,
+	"CountryOrRegion": "Bangladesh",
+	"Score": 4.456,
+	"GDP Per Capita": 0.562,
+	"Social Support": 0.928,
+	"Healthy Life Expectancy": 0.723,
+	"Freedom To Make Life Choices": 0.527,
+	"Generosity": 0.166,
+	"Perceptions of Corruption": 0.143
+}, {
+	"Overall rank": 126,
+	"CountryOrRegion": "Iraq",
+	"Score": 4.437,
+	"GDP Per Capita": 1.043,
+	"Social Support": 0.980,
+	"Healthy Life Expectancy": 0.574,
+	"Freedom To Make Life Choices": 0.241,
+	"Generosity": 0.148,
+	"Perceptions of Corruption": 0.089
+}, {
+	"Overall rank": 127,
+	"CountryOrRegion": "Congo (Kinshasa)",
+	"Score": 4.418,
+	"GDP Per Capita": 0.094,
+	"Social Support": 1.125,
+	"Healthy Life Expectancy": 0.357,
+	"Freedom To Make Life Choices": 0.269,
+	"Generosity": 0.212,
+	"Perceptions of Corruption": 0.053
+}, {
+	"Overall rank": 128,
+	"CountryOrRegion": "Mali",
+	"Score": 4.390,
+	"GDP Per Capita": 0.385,
+	"Social Support": 1.105,
+	"Healthy Life Expectancy": 0.308,
+	"Freedom To Make Life Choices": 0.327,
+	"Generosity": 0.153,
+	"Perceptions of Corruption": 0.052
+}, {
+	"Overall rank": 129,
+	"CountryOrRegion": "Sierra Leone",
+	"Score": 4.374,
+	"GDP Per Capita": 0.268,
+	"Social Support": 0.841,
+	"Healthy Life Expectancy": 0.242,
+	"Freedom To Make Life Choices": 0.309,
+	"Generosity": 0.252,
+	"Perceptions of Corruption": 0.045
+}, {
+	"Overall rank": 130,
+	"CountryOrRegion": "Sri Lanka",
+	"Score": 4.366,
+	"GDP Per Capita": 0.949,
+	"Social Support": 1.265,
+	"Healthy Life Expectancy": 0.831,
+	"Freedom To Make Life Choices": 0.470,
+	"Generosity": 0.244,
+	"Perceptions of Corruption": 0.047
+}, {
+	"Overall rank": 131,
+	"CountryOrRegion": "Myanmar",
+	"Score": 4.360,
+	"GDP Per Capita": 0.710,
+	"Social Support": 1.181,
+	"Healthy Life Expectancy": 0.555,
+	"Freedom To Make Life Choices": 0.525,
+	"Generosity": 0.566,
+	"Perceptions of Corruption": 0.172
+}, {
+	"Overall rank": 132,
+	"CountryOrRegion": "Chad",
+	"Score": 4.350,
+	"GDP Per Capita": 0.350,
+	"Social Support": 0.766,
+	"Healthy Life Expectancy": 0.192,
+	"Freedom To Make Life Choices": 0.174,
+	"Generosity": 0.198,
+	"Perceptions of Corruption": 0.078
+}, {
+	"Overall rank": 133,
+	"CountryOrRegion": "Ukraine",
+	"Score": 4.332,
+	"GDP Per Capita": 0.820,
+	"Social Support": 1.390,
+	"Healthy Life Expectancy": 0.739,
+	"Freedom To Make Life Choices": 0.178,
+	"Generosity": 0.187,
+	"Perceptions of Corruption": 0.010
+}, {
+	"Overall rank": 134,
+	"CountryOrRegion": "Ethiopia",
+	"Score": 4.286,
+	"GDP Per Capita": 0.336,
+	"Social Support": 1.033,
+	"Healthy Life Expectancy": 0.532,
+	"Freedom To Make Life Choices": 0.344,
+	"Generosity": 0.209,
+	"Perceptions of Corruption": 0.100
+}, {
+	"Overall rank": 135,
+	"CountryOrRegion": "Swaziland",
+	"Score": 4.212,
+	"GDP Per Capita": 0.811,
+	"Social Support": 1.149,
+	"Healthy Life Expectancy": 0.000,
+	"Freedom To Make Life Choices": 0.313,
+	"Generosity": 0.074,
+	"Perceptions of Corruption": 0.135
+}, {
+	"Overall rank": 136,
+	"CountryOrRegion": "Uganda",
+	"Score": 4.189,
+	"GDP Per Capita": 0.332,
+	"Social Support": 1.069,
+	"Healthy Life Expectancy": 0.443,
+	"Freedom To Make Life Choices": 0.356,
+	"Generosity": 0.252,
+	"Perceptions of Corruption": 0.060
+}, {
+	"Overall rank": 137,
+	"CountryOrRegion": "Egypt",
+	"Score": 4.166,
+	"GDP Per Capita": 0.913,
+	"Social Support": 1.039,
+	"Healthy Life Expectancy": 0.644,
+	"Freedom To Make Life Choices": 0.241,
+	"Generosity": 0.076,
+	"Perceptions of Corruption": 0.067
+}, {
+	"Overall rank": 138,
+	"CountryOrRegion": "Zambia",
+	"Score": 4.107,
+	"GDP Per Capita": 0.578,
+	"Social Support": 1.058,
+	"Healthy Life Expectancy": 0.426,
+	"Freedom To Make Life Choices": 0.431,
+	"Generosity": 0.247,
+	"Perceptions of Corruption": 0.087
+}, {
+	"Overall rank": 139,
+	"CountryOrRegion": "Togo",
+	"Score": 4.085,
+	"GDP Per Capita": 0.275,
+	"Social Support": 0.572,
+	"Healthy Life Expectancy": 0.410,
+	"Freedom To Make Life Choices": 0.293,
+	"Generosity": 0.177,
+	"Perceptions of Corruption": 0.085
+}, {
+	"Overall rank": 140,
+	"CountryOrRegion": "India",
+	"Score": 4.015,
+	"GDP Per Capita": 0.755,
+	"Social Support": 0.765,
+	"Healthy Life Expectancy": 0.588,
+	"Freedom To Make Life Choices": 0.498,
+	"Generosity": 0.200,
+	"Perceptions of Corruption": 0.085
+}, {
+	"Overall rank": 141,
+	"CountryOrRegion": "Liberia",
+	"Score": 3.975,
+	"GDP Per Capita": 0.073,
+	"Social Support": 0.922,
+	"Healthy Life Expectancy": 0.443,
+	"Freedom To Make Life Choices": 0.370,
+	"Generosity": 0.233,
+	"Perceptions of Corruption": 0.033
+}, {
+	"Overall rank": 142,
+	"CountryOrRegion": "Comoros",
+	"Score": 3.973,
+	"GDP Per Capita": 0.274,
+	"Social Support": 0.757,
+	"Healthy Life Expectancy": 0.505,
+	"Freedom To Make Life Choices": 0.142,
+	"Generosity": 0.275,
+	"Perceptions of Corruption": 0.078
+}, {
+	"Overall rank": 143,
+	"CountryOrRegion": "Madagascar",
+	"Score": 3.933,
+	"GDP Per Capita": 0.274,
+	"Social Support": 0.916,
+	"Healthy Life Expectancy": 0.555,
+	"Freedom To Make Life Choices": 0.148,
+	"Generosity": 0.169,
+	"Perceptions of Corruption": 0.041
+}, {
+	"Overall rank": 144,
+	"CountryOrRegion": "Lesotho",
+	"Score": 3.802,
+	"GDP Per Capita": 0.489,
+	"Social Support": 1.169,
+	"Healthy Life Expectancy": 0.168,
+	"Freedom To Make Life Choices": 0.359,
+	"Generosity": 0.107,
+	"Perceptions of Corruption": 0.093
+}, {
+	"Overall rank": 145,
+	"CountryOrRegion": "Burundi",
+	"Score": 3.775,
+	"GDP Per Capita": 0.046,
+	"Social Support": 0.447,
+	"Healthy Life Expectancy": 0.380,
+	"Freedom To Make Life Choices": 0.220,
+	"Generosity": 0.176,
+	"Perceptions of Corruption": 0.180
+}, {
+	"Overall rank": 146,
+	"CountryOrRegion": "Zimbabwe",
+	"Score": 3.663,
+	"GDP Per Capita": 0.366,
+	"Social Support": 1.114,
+	"Healthy Life Expectancy": 0.433,
+	"Freedom To Make Life Choices": 0.361,
+	"Generosity": 0.151,
+	"Perceptions of Corruption": 0.089
+}, {
+	"Overall rank": 147,
+	"CountryOrRegion": "Haiti",
+	"Score": 3.597,
+	"GDP Per Capita": 0.323,
+	"Social Support": 0.688,
+	"Healthy Life Expectancy": 0.449,
+	"Freedom To Make Life Choices": 0.026,
+	"Generosity": 0.419,
+	"Perceptions of Corruption": 0.110
+}, {
+	"Overall rank": 148,
+	"CountryOrRegion": "Botswana",
+	"Score": 3.488,
+	"GDP Per Capita": 1.041,
+	"Social Support": 1.145,
+	"Healthy Life Expectancy": 0.538,
+	"Freedom To Make Life Choices": 0.455,
+	"Generosity": 0.025,
+	"Perceptions of Corruption": 0.100
+}, {
+	"Overall rank": 149,
+	"CountryOrRegion": "Syria",
+	"Score": 3.462,
+	"GDP Per Capita": 0.619,
+	"Social Support": 0.378,
+	"Healthy Life Expectancy": 0.440,
+	"Freedom To Make Life Choices": 0.013,
+	"Generosity": 0.331,
+	"Perceptions of Corruption": 0.141
+}, {
+	"Overall rank": 150,
+	"CountryOrRegion": "Malawi",
+	"Score": 3.410,
+	"GDP Per Capita": 0.191,
+	"Social Support": 0.560,
+	"Healthy Life Expectancy": 0.495,
+	"Freedom To Make Life Choices": 0.443,
+	"Generosity": 0.218,
+	"Perceptions of Corruption": 0.089
+}, {
+	"Overall rank": 151,
+	"CountryOrRegion": "Yemen",
+	"Score": 3.380,
+	"GDP Per Capita": 0.287,
+	"Social Support": 1.163,
+	"Healthy Life Expectancy": 0.463,
+	"Freedom To Make Life Choices": 0.143,
+	"Generosity": 0.108,
+	"Perceptions of Corruption": 0.077
+}, {
+	"Overall rank": 152,
+	"CountryOrRegion": "Rwanda",
+	"Score": 3.334,
+	"GDP Per Capita": 0.359,
+	"Social Support": 0.711,
+	"Healthy Life Expectancy": 0.614,
+	"Freedom To Make Life Choices": 0.555,
+	"Generosity": 0.217,
+	"Perceptions of Corruption": 0.411
+}, {
+	"Overall rank": 153,
+	"CountryOrRegion": "Tanzania",
+	"Score": 3.231,
+	"GDP Per Capita": 0.476,
+	"Social Support": 0.885,
+	"Healthy Life Expectancy": 0.499,
+	"Freedom To Make Life Choices": 0.417,
+	"Generosity": 0.276,
+	"Perceptions of Corruption": 0.147
+}, {
+	"Overall rank": 154,
+	"CountryOrRegion": "Afghanistan",
+	"Score": 3.203,
+	"GDP Per Capita": 0.350,
+	"Social Support": 0.517,
+	"Healthy Life Expectancy": 0.361,
+	"Freedom To Make Life Choices": 0.000,
+	"Generosity": 0.158,
+	"Perceptions of Corruption": 0.025
+}, {
+	"Overall rank": 155,
+	"CountryOrRegion": "Central African Republic",
+	"Score": 3.083,
+	"GDP Per Capita": 0.026,
+	"Social Support": 0.000,
+	"Healthy Life Expectancy": 0.105,
+	"Freedom To Make Life Choices": 0.225,
+	"Generosity": 0.235,
+	"Perceptions of Corruption": 0.035
+}, {
+	"Overall rank": 156,
+	"CountryOrRegion": "South Sudan",
+	"Score": 2.853,
+	"GDP Per Capita": 0.306,
+	"Social Support": 0.575,
+	"Healthy Life Expectancy": 0.295,
+	"Freedom To Make Life Choices": 0.010,
+	"Generosity": 0.202,
+	"Perceptions of Corruption": 0.091
+}]

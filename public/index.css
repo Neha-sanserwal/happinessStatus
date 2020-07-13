@@ -1,0 +1,55 @@
+.form {
+	height: 100rem;
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-flow: column;
+}
+
+.form-sub {
+	width: 30%;
+	flex-flow: column;
+	justify-content: space-evenly;
+	display: flex;
+	align-items: center;
+	height: auto;
+	box-shadow: 0 0 4px 1px lightgrey;
+	padding: 30px;
+	border-radius: 0.5rem;
+	text-align: center;
+	background-color: white;
+}
+
+.form-sub>h2 {
+	font-weight: 800;
+	padding-bottom: 5px;
+}
+
+#search-btn {
+	width: 90%;
+	background-color: black;
+	border: 1px solid white;
+	height: 40px;
+	font-size: 16px;
+	color: white;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: linear-gradient(125deg, #292731 25%, #2d2b36 25%);
+}
+
+#circle {
+	border-bottom: 1px solid lightgray;
+	width: 100%;
+	text-align: left;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+#paths {
+	display: none;
+}

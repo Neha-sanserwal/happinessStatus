@@ -1,0 +1,33 @@
+<html>
+
+<head>
+	<title> Form </title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./index.css">
+	<script src="./index.js"></script>
+</head>
+
+<body>
+
+	<div class="form">
+
+		<div class="form-sub">
+			<h2> Happiness Status</h2>
+			<input type="text" name="from" class="form-control" placeholder="Country or Region"
+				onkeypress="endInputAndSendRequest(event)">
+
+			<br>
+
+			<button type="submit" name="submit" id="search-btn" class="btn" onclick="sendRequest(event)"> GET DETAILS
+			</button>
+		</div>
+		<div class="form-sub" id="details"></div>
+	</div>
+
+
+</body>
+
+</html>
